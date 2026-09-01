@@ -131,7 +131,7 @@ GameObject:
   - component: {fileID: 8458856}
   - component: {fileID: 8458855}
   m_Layer: 0
-  m_Name: BG2
+  m_Name: BG3
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -496,7 +496,7 @@ GameObject:
   - component: {fileID: 921865756}
   - component: {fileID: 921865755}
   m_Layer: 0
-  m_Name: BG3
+  m_Name: BG2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -604,5 +604,5 @@ SceneRoots:
   m_Roots:
   - {fileID: 200197302}
   - {fileID: 907404647}
-  - {fileID: 8458857}
   - {fileID: 921865757}
+  - {fileID: 8458857}
