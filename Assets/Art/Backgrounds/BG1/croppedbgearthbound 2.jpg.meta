@@ -1,0 +1,1745 @@
+fileFormatVersion: 2
+guid: c6571c8b0592f71419051af0d0365787
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2975859171198717535
+    second: croppedbgearthbound 2_0
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: croppedbgearthbound 2_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2035
+        width: 256
+        height: 224
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a1bc1fb9df93b6d0800000000000000
+      internalID: -2975859171198717535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: croppedbgearthbound 2_1
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 2035
+        width: 256
+        height: 224
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54f44fa9b7166fb4c9c70653bfeeb43a
+      internalID: -1373751507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: croppedbgearthbound 2_2
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 2035
+        width: 256
+        height: 224
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0306bc705f9c140439f5e2ab9e21a829
+      internalID: -1074768573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: croppedbgearthbound 2_3
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 2035
+        width: 256
+        height: 224
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5eb18d07e6cb1144a21d9ab5a526037
+      internalID: -722157143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: croppedbgearthbound 2_4
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 2035
+        width: 256
+        height: 224
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7aebb376839d01c4891ac375b47b5699
+      internalID: 1166113336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: croppedbgearthbound 2_5
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 2035
+        width: 256
+        height: 224
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be490b18adc67fc4cb513cb401875f71
+      internalID: -422311623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: croppedbgearthbound 2_6
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 2035
+        width: 256
+        height: 224
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21ff45b3b7ae58e47945aff04e1bdc52
+      internalID: 1715348262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: croppedbgearthbound 2_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1811
+        width: 256
+        height: 224
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0bbd1ea49ec1ad43a90da46bec375a5
+      internalID: 1998099758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: croppedbgearthbound 2_8
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1811
+        width: 256
+        height: 224
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a90f1f58d0b09046aee8758bcbbd09b
+      internalID: -1819741971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: croppedbgearthbound 2_9
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1811
+        width: 256
+        height: 224
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76691944cf250f64f86d93c3e72b324e
+      internalID: 1745203962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: croppedbgearthbound 2_10
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1811
+        width: 256
+        height: 224
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c8021fe556ae9b4b9b7aee78ecc80e5
+      internalID: 2116487471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: croppedbgearthbound 2_11
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 1811
+        width: 256
+        height: 224
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 247f3ee4a0bab9d4492342f7786c459a
+      internalID: -1995203021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: croppedbgearthbound 2_12
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 1811
+        width: 256
+        height: 224
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fe4ba0b7f37e3a4aa86ddf8aba744ad
+      internalID: -55807869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: croppedbgearthbound 2_13
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 1811
+        width: 256
+        height: 224
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 195b62013d8e0c44bb515c8701ca8dec
+      internalID: 148822841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: croppedbgearthbound 2_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1587
+        width: 256
+        height: 224
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdd51a197a1fafb42995a956f5750712
+      internalID: -437359967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: croppedbgearthbound 2_15
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1587
+        width: 256
+        height: 224
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ad1480a830b3f94f85387766a7b1605
+      internalID: 1430336625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: croppedbgearthbound 2_16
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1587
+        width: 256
+        height: 224
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c3128e86dbac4440b0fd0e6fc25c72f
+      internalID: -1555149721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: croppedbgearthbound 2_17
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1587
+        width: 256
+        height: 224
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6f05cea60b3b9145a0e6e1fa9361bed
+      internalID: -936231628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: croppedbgearthbound 2_18
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 1587
+        width: 256
+        height: 224
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b298ec48e9f6d62468facad68b40a3aa
+      internalID: 396803591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: croppedbgearthbound 2_19
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 1587
+        width: 256
+        height: 224
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc287414f029036488cf5b30de7365a8
+      internalID: 1003850053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: croppedbgearthbound 2_20
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 1587
+        width: 256
+        height: 224
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 682ed43a4b406fe43a74ff67b22c5513
+      internalID: 928092150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: croppedbgearthbound 2_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1363
+        width: 256
+        height: 224
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be99bb31b5d5af54a999eaa105b50ad0
+      internalID: 1639311990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: croppedbgearthbound 2_22
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1363
+        width: 256
+        height: 224
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 176a405e6c85e52439efdb2bca897df4
+      internalID: -999835120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: croppedbgearthbound 2_23
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1363
+        width: 256
+        height: 224
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9739f1a8c610394382fb3f75f2d9178
+      internalID: 1075970941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: croppedbgearthbound 2_24
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1363
+        width: 256
+        height: 224
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6027594e55c424d4cb33b4f3f640cff9
+      internalID: -1463789336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: croppedbgearthbound 2_25
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 1363
+        width: 256
+        height: 224
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a364449cce89e8045b0817de9ff37ed0
+      internalID: 603767790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: croppedbgearthbound 2_26
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 1363
+        width: 256
+        height: 224
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd17faf9a58f3ca488a554d1e8844c40
+      internalID: -338470800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: croppedbgearthbound 2_27
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 1363
+        width: 256
+        height: 224
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f46e828397e497449bb1fffba48ab1d4
+      internalID: 698882885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: croppedbgearthbound 2_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1139
+        width: 256
+        height: 224
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b751f25b5d699b44e8dda9305d5145af
+      internalID: -2097167319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: croppedbgearthbound 2_29
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1139
+        width: 256
+        height: 224
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c234c6a7f19afe94c9feca9fbb358c92
+      internalID: 1167021348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: croppedbgearthbound 2_30
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1139
+        width: 256
+        height: 224
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80311f2708144d245a87e0f94f196066
+      internalID: 2101190653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: croppedbgearthbound 2_31
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1139
+        width: 256
+        height: 224
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8717e1eb2f2fa7b44b74c9af1f1acffd
+      internalID: -1803247441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: croppedbgearthbound 2_32
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 1139
+        width: 256
+        height: 224
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a43ccd0d29cfbb8448860be6d99b118b
+      internalID: -1700384999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: croppedbgearthbound 2_33
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 1139
+        width: 256
+        height: 224
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00ede5e5c2281ef4aaf981dfbfbcf34c
+      internalID: -901961627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: croppedbgearthbound 2_34
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 1139
+        width: 256
+        height: 224
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1bcd203c6e1ff0409bb754247b47740
+      internalID: -1979625229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: croppedbgearthbound 2_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 915
+        width: 256
+        height: 224
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0b3cbcc5c20a034faeb01d7db436503
+      internalID: 1664429008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: croppedbgearthbound 2_36
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 915
+        width: 256
+        height: 224
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f69e31b26a9aab942bba1a6d8dfc167e
+      internalID: -1263854065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: croppedbgearthbound 2_37
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 915
+        width: 256
+        height: 224
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fdfc10d773d866469178a47dfa1392b
+      internalID: -749288944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: croppedbgearthbound 2_38
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 915
+        width: 256
+        height: 224
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b07dd7557feb8694ba26fd326c1df727
+      internalID: 669644497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: croppedbgearthbound 2_39
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 915
+        width: 256
+        height: 224
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b34e369d4c6cb2149801677a703153e3
+      internalID: -1037420551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: croppedbgearthbound 2_40
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 915
+        width: 256
+        height: 224
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d02aed0414155984e8a9083d06493e98
+      internalID: 2077171054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: croppedbgearthbound 2_41
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 915
+        width: 256
+        height: 224
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b6ffa408fe276645b48aeb2aca3ffd0
+      internalID: -1614879629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: croppedbgearthbound 2_42
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 691
+        width: 256
+        height: 224
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1d662dd63646c14aab5e81b362d1f1e
+      internalID: -836247877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: croppedbgearthbound 2_43
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 691
+        width: 256
+        height: 224
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe5d09806db2852429b19d9c88e7ebe2
+      internalID: 335802511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: croppedbgearthbound 2_44
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 691
+        width: 256
+        height: 224
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c6d9fe097f683542900628dfeda06de
+      internalID: 1580073258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: croppedbgearthbound 2_45
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 691
+        width: 256
+        height: 224
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c8268260c0cb8e44903ca936feed104
+      internalID: 1322599033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: croppedbgearthbound 2_46
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 691
+        width: 256
+        height: 224
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8992a2c948866bf41a371ec5b8a521b7
+      internalID: 226308290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: croppedbgearthbound 2_47
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 691
+        width: 256
+        height: 224
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a4b3ff50b5f72f4aace0ce96e230d8a
+      internalID: 1728203975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: croppedbgearthbound 2_48
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 691
+        width: 256
+        height: 224
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3238466be787be540877372f5e4f4059
+      internalID: 269626820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: croppedbgearthbound 2_49
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 467
+        width: 256
+        height: 224
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79a0c3f1cd80f974a96af25ac00401c6
+      internalID: 1767854545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: croppedbgearthbound 2_50
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 467
+        width: 256
+        height: 224
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6e164d9fba4abe43b527df2f734ece7
+      internalID: -1998615508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: croppedbgearthbound 2_51
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 467
+        width: 256
+        height: 224
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 648c57783ca14a3438de27f815676759
+      internalID: 56089779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: croppedbgearthbound 2_52
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 467
+        width: 256
+        height: 224
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ba1e084c2e40564cb356a37e8ce7163
+      internalID: -1739005878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: croppedbgearthbound 2_53
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 467
+        width: 256
+        height: 224
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d16a5b41bb7df04c9668efa17d61068
+      internalID: 1050398397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: croppedbgearthbound 2_54
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 467
+        width: 256
+        height: 224
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31031397e8cb7364e8a0501a39a664bd
+      internalID: -586673988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: croppedbgearthbound 2_55
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 467
+        width: 256
+        height: 224
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0abeea39d3568a4e85ca077a3cee79a
+      internalID: -142554468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: croppedbgearthbound 2_56
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 243
+        width: 256
+        height: 224
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d377cf66de2f02f4091ad3468482253a
+      internalID: -1889213780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: croppedbgearthbound 2_57
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 243
+        width: 256
+        height: 224
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be342df84c51fc84da67f57741d6c338
+      internalID: -2041062514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: croppedbgearthbound 2_58
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 243
+        width: 256
+        height: 224
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf022a9f292f6214a9cb2c4b5aaf762e
+      internalID: 144447753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: croppedbgearthbound 2_59
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 243
+        width: 256
+        height: 224
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a58c406e88e354d47a8835d9043f795e
+      internalID: 1479963569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: croppedbgearthbound 2_60
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 243
+        width: 256
+        height: 224
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 473e946392429e94da1161201e07589d
+      internalID: 1330045845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: croppedbgearthbound 2_61
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 243
+        width: 256
+        height: 224
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce82f63c8aa30b843b05f58beb1dd535
+      internalID: 636125621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: croppedbgearthbound 2_62
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 243
+        width: 256
+        height: 224
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13dfd6cf011764c49a2076229a7dbf8a
+      internalID: -1749951479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: croppedbgearthbound 2_63
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 19
+        width: 256
+        height: 224
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1bccfa5279a2824d886ce4ca40e13f5
+      internalID: 960732350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: croppedbgearthbound 2_64
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 19
+        width: 256
+        height: 224
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f458fcc36fca4547b8c69f296524aae
+      internalID: 519659220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: croppedbgearthbound 2_65
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 19
+        width: 256
+        height: 224
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b493c5293b65f4947be5a5dfea8ca7d1
+      internalID: 1903337745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: croppedbgearthbound 2_66
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 19
+        width: 256
+        height: 224
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbf5f070e876bf942afa70d268d613e5
+      internalID: 481634937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: croppedbgearthbound 2_67
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 19
+        width: 256
+        height: 224
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e603ac969f58a6a4bb73742c17c067f7
+      internalID: 84434889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: croppedbgearthbound 2_68
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 19
+        width: 256
+        height: 224
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dddafa4aba8b66b4d8aa5705545a8238
+      internalID: -1721233666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: croppedbgearthbound 2_69
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 19
+        width: 256
+        height: 224
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e35dbb2f61c8890488e21a1b56189c80
+      internalID: -677844739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 267511da50b9be04f850d1d393fb0880
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":256.0,"y":224.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":1,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      croppedbgearthbound 2_0: -2975859171198717535
+      croppedbgearthbound 2_1: -1373751507
+      croppedbgearthbound 2_10: 2116487471
+      croppedbgearthbound 2_11: -1995203021
+      croppedbgearthbound 2_12: -55807869
+      croppedbgearthbound 2_13: 148822841
+      croppedbgearthbound 2_14: -437359967
+      croppedbgearthbound 2_15: 1430336625
+      croppedbgearthbound 2_16: -1555149721
+      croppedbgearthbound 2_17: -936231628
+      croppedbgearthbound 2_18: 396803591
+      croppedbgearthbound 2_19: 1003850053
+      croppedbgearthbound 2_2: -1074768573
+      croppedbgearthbound 2_20: 928092150
+      croppedbgearthbound 2_21: 1639311990
+      croppedbgearthbound 2_22: -999835120
+      croppedbgearthbound 2_23: 1075970941
+      croppedbgearthbound 2_24: -1463789336
+      croppedbgearthbound 2_25: 603767790
+      croppedbgearthbound 2_26: -338470800
+      croppedbgearthbound 2_27: 698882885
+      croppedbgearthbound 2_28: -2097167319
+      croppedbgearthbound 2_29: 1167021348
+      croppedbgearthbound 2_3: -722157143
+      croppedbgearthbound 2_30: 2101190653
+      croppedbgearthbound 2_31: -1803247441
+      croppedbgearthbound 2_32: -1700384999
+      croppedbgearthbound 2_33: -901961627
+      croppedbgearthbound 2_34: -1979625229
+      croppedbgearthbound 2_35: 1664429008
+      croppedbgearthbound 2_36: -1263854065
+      croppedbgearthbound 2_37: -749288944
+      croppedbgearthbound 2_38: 669644497
+      croppedbgearthbound 2_39: -1037420551
+      croppedbgearthbound 2_4: 1166113336
+      croppedbgearthbound 2_40: 2077171054
+      croppedbgearthbound 2_41: -1614879629
+      croppedbgearthbound 2_42: -836247877
+      croppedbgearthbound 2_43: 335802511
+      croppedbgearthbound 2_44: 1580073258
+      croppedbgearthbound 2_45: 1322599033
+      croppedbgearthbound 2_46: 226308290
+      croppedbgearthbound 2_47: 1728203975
+      croppedbgearthbound 2_48: 269626820
+      croppedbgearthbound 2_49: 1767854545
+      croppedbgearthbound 2_5: -422311623
+      croppedbgearthbound 2_50: -1998615508
+      croppedbgearthbound 2_51: 56089779
+      croppedbgearthbound 2_52: -1739005878
+      croppedbgearthbound 2_53: 1050398397
+      croppedbgearthbound 2_54: -586673988
+      croppedbgearthbound 2_55: -142554468
+      croppedbgearthbound 2_56: -1889213780
+      croppedbgearthbound 2_57: -2041062514
+      croppedbgearthbound 2_58: 144447753
+      croppedbgearthbound 2_59: 1479963569
+      croppedbgearthbound 2_6: 1715348262
+      croppedbgearthbound 2_60: 1330045845
+      croppedbgearthbound 2_61: 636125621
+      croppedbgearthbound 2_62: -1749951479
+      croppedbgearthbound 2_63: 960732350
+      croppedbgearthbound 2_64: 519659220
+      croppedbgearthbound 2_65: 1903337745
+      croppedbgearthbound 2_66: 481634937
+      croppedbgearthbound 2_67: 84434889
+      croppedbgearthbound 2_68: -1721233666
+      croppedbgearthbound 2_69: -677844739
+      croppedbgearthbound 2_7: 1998099758
+      croppedbgearthbound 2_8: -1819741971
+      croppedbgearthbound 2_9: 1745203962
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
