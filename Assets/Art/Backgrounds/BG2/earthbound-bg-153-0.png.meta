@@ -1,0 +1,3999 @@
+fileFormatVersion: 2
+guid: d59653e6e5043ba419368f8d99a415bc
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6705822450865901291
+    second: earthbound-bg-153-0_0
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: earthbound-bg-153-0_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5152
+        width: 256
+        height: 224
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5117c49820220f2a0800000000000000
+      internalID: -6705822450865901291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earthbound-bg-153-0_1
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 5152
+        width: 256
+        height: 224
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e63a5ed1570e35419ac5eb5d175834a
+      internalID: -1731557171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earthbound-bg-153-0_2
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 5152
+        width: 256
+        height: 224
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49a25912110a8f144adc482b2db0ba9e
+      internalID: 103608419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earthbound-bg-153-0_3
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 5152
+        width: 256
+        height: 224
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d96df5f438195144dba0c984d3fbeacd
+      internalID: -649628802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earthbound-bg-153-0_4
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 5152
+        width: 256
+        height: 224
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 343a2634bc3a9d24baa2af4b50d1744b
+      internalID: -1087334354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earthbound-bg-153-0_5
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 5152
+        width: 256
+        height: 224
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee54d8785a016c34d93acba42ce99b18
+      internalID: 1933530432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earthbound-bg-153-0_6
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 5152
+        width: 256
+        height: 224
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d7720cbefcfe1e49a695f645f4d2c36
+      internalID: 1372074669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earthbound-bg-153-0_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4928
+        width: 256
+        height: 224
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38b6d42fc252d7a41af33cb6bc2a3ffe
+      internalID: -1603547619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earthbound-bg-153-0_8
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 4928
+        width: 256
+        height: 224
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 071c3413c578b35449a2bcce740a97d9
+      internalID: 1323744527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earthbound-bg-153-0_9
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 4928
+        width: 256
+        height: 224
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec33304c1559a0d4d9ffcb42150ee8d0
+      internalID: -276696833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earthbound-bg-153-0_10
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 4928
+        width: 256
+        height: 224
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f8bf3880d2b68d4da391a35f6442591
+      internalID: 670931408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earthbound-bg-153-0_11
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 4928
+        width: 256
+        height: 224
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aaff0fa720c44744ebf680a34774a3f2
+      internalID: -1089520270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earthbound-bg-153-0_12
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 4928
+        width: 256
+        height: 224
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dbfbf0943d0db54a81f12fdc76c1ad6
+      internalID: -1933827473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earthbound-bg-153-0_13
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 4928
+        width: 256
+        height: 224
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30815e58ebb86d24e9ca9c9be4ccfc1c
+      internalID: -2029712815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earthbound-bg-153-0_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4704
+        width: 256
+        height: 224
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c74bf1d4258f5b44a37ced79c52f3ed
+      internalID: 963252753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earthbound-bg-153-0_15
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 4704
+        width: 256
+        height: 224
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 934bf1915c1c56d40a747358af78711a
+      internalID: -912546950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earthbound-bg-153-0_16
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 4704
+        width: 256
+        height: 224
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdcf55685bf5e264996b9c39468ec664
+      internalID: 146637979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earthbound-bg-153-0_17
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 4704
+        width: 256
+        height: 224
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89f81173c9fba1745b6da49e9ae16af7
+      internalID: -165024060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earthbound-bg-153-0_18
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 4704
+        width: 256
+        height: 224
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 916036c5b3d3ba74e83cbca079a4a996
+      internalID: 607006943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earthbound-bg-153-0_19
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 4704
+        width: 256
+        height: 224
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dd0c72e17089104887bd6142102fd7f
+      internalID: -1272229606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earthbound-bg-153-0_20
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 4704
+        width: 256
+        height: 224
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cbaa725a9334494fae7feb203b5ac21
+      internalID: 912136789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earthbound-bg-153-0_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4480
+        width: 256
+        height: 224
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 446324883329ee74d9699d2b5f60a6a2
+      internalID: 473907771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earthbound-bg-153-0_22
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 4480
+        width: 256
+        height: 224
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: debf71aae4673804493fba0b2e2f9645
+      internalID: 1669273761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earthbound-bg-153-0_23
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 4480
+        width: 256
+        height: 224
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8cce71091df4434386993066241cc7a
+      internalID: 634938619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earthbound-bg-153-0_24
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 4480
+        width: 256
+        height: 224
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a74f1a2dde01a2c4885886cb271e3f70
+      internalID: -1418123923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earthbound-bg-153-0_25
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 4480
+        width: 256
+        height: 224
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca540dfc1f951914aa0a053647fe94db
+      internalID: 1236489235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earthbound-bg-153-0_26
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 4480
+        width: 256
+        height: 224
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85277acc9d94665478fe23b09d76fb23
+      internalID: 547679227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earthbound-bg-153-0_27
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 4480
+        width: 256
+        height: 224
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54eb8df92bb995c40acefa14338f359d
+      internalID: -829133704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earthbound-bg-153-0_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4256
+        width: 256
+        height: 224
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 245137e48a4e694458de8b69ad07e896
+      internalID: 1897044185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earthbound-bg-153-0_29
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 4256
+        width: 256
+        height: 224
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d46b6eb2598bd2747b90b19391ca659a
+      internalID: 614301862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earthbound-bg-153-0_30
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 4256
+        width: 256
+        height: 224
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a872bf72fcaa57f4281b9b8bdcbd9d29
+      internalID: -1027517150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earthbound-bg-153-0_31
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 4256
+        width: 256
+        height: 224
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa1fa2334a566e24ea091d21208b9333
+      internalID: 1783361890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earthbound-bg-153-0_32
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 4256
+        width: 256
+        height: 224
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4d5440fbde1ff343aada44a3002b78a
+      internalID: -857455972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earthbound-bg-153-0_33
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 4256
+        width: 256
+        height: 224
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 166d9c93baa259946a424120b95dfd1b
+      internalID: 179202067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earthbound-bg-153-0_34
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 4256
+        width: 256
+        height: 224
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a049e22c3fec1684089d504fac393edb
+      internalID: 858501587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earthbound-bg-153-0_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4032
+        width: 256
+        height: 224
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 769a69e75d8b3024bb9b2d0293389ff9
+      internalID: 1833843696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earthbound-bg-153-0_36
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 4032
+        width: 256
+        height: 224
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e16aa00ee1b02514497bd965f7583fff
+      internalID: 335115331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earthbound-bg-153-0_37
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 4032
+        width: 256
+        height: 224
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 138e6735bf0860e4f9e377fb97efb71f
+      internalID: 528716900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earthbound-bg-153-0_38
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 4032
+        width: 256
+        height: 224
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cb14030b1af65749b43b4cd18007fff
+      internalID: 67217125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earthbound-bg-153-0_39
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 4032
+        width: 256
+        height: 224
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10c5585b6fb0d974a9641bebbbe08276
+      internalID: -986343974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earthbound-bg-153-0_40
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 4032
+        width: 256
+        height: 224
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee07cf7e23408e3458e924362995c195
+      internalID: 1137676815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earthbound-bg-153-0_41
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 4032
+        width: 256
+        height: 224
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b730b6d1de9d854088861b2705a950e
+      internalID: -215630514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earthbound-bg-153-0_42
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3808
+        width: 256
+        height: 224
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61276673f06e81e4cbfcb63983ff5434
+      internalID: -1815745323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earthbound-bg-153-0_43
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 3808
+        width: 256
+        height: 224
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25dccfd4d838cd94f994b847f56cbca2
+      internalID: 1843180875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earthbound-bg-153-0_44
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 3808
+        width: 256
+        height: 224
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c63ebe2dc930b4d47b08cf4d82f261ac
+      internalID: 667160131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earthbound-bg-153-0_45
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 3808
+        width: 256
+        height: 224
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b9c03fe7ef23de40875238c52aa898b
+      internalID: -1725618859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earthbound-bg-153-0_46
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 3808
+        width: 256
+        height: 224
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77c5ffc115e3a7c48988b291b1042310
+      internalID: 2019103257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earthbound-bg-153-0_47
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 3808
+        width: 256
+        height: 224
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fbd267f7c517fc458e491525666fc37
+      internalID: 31007295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earthbound-bg-153-0_48
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 3808
+        width: 256
+        height: 224
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: caa5a47fdd731bb48bb43f5cd423f38a
+      internalID: 1587524124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earthbound-bg-153-0_49
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3584
+        width: 256
+        height: 224
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d574b420a2c6c0d43ba967d762c3a2cf
+      internalID: -201665070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earthbound-bg-153-0_50
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 3584
+        width: 256
+        height: 224
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ed97e95cd6618a4ea65c5488071af91
+      internalID: 237819676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earthbound-bg-153-0_51
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 3584
+        width: 256
+        height: 224
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2777e18c0a20020458cb68aba3045308
+      internalID: 1489590017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earthbound-bg-153-0_52
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 3584
+        width: 256
+        height: 224
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43a4615eea88364489d494265e80ec92
+      internalID: -2071335753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earthbound-bg-153-0_53
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 3584
+        width: 256
+        height: 224
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33d37f3630b647147a21ec8ccf0b5652
+      internalID: -1251938245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earthbound-bg-153-0_54
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 3584
+        width: 256
+        height: 224
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdcffaf50871fa64f96f97851eef85aa
+      internalID: 668923113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earthbound-bg-153-0_55
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 3584
+        width: 256
+        height: 224
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 175f34c8fbe21144a8c1f1a8c33b2f64
+      internalID: 1119333612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earthbound-bg-153-0_56
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3360
+        width: 256
+        height: 224
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 124992ab0e7c1fc4f88b36a33b3da7be
+      internalID: -1389314915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earthbound-bg-153-0_57
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 3360
+        width: 256
+        height: 224
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5c6fb5ff7887094592e989ee7e11d9d
+      internalID: 126910991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earthbound-bg-153-0_58
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 3360
+        width: 256
+        height: 224
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 838153f21d2e4fc47b5850d93582dc8c
+      internalID: 845818377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earthbound-bg-153-0_59
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 3360
+        width: 256
+        height: 224
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e72b1353e66337743b2576641f611aa1
+      internalID: 1740705390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earthbound-bg-153-0_60
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 3360
+        width: 256
+        height: 224
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f250b44e7182364e8820d59c6bfc84f
+      internalID: 471623455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earthbound-bg-153-0_61
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 3360
+        width: 256
+        height: 224
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20358c08e5b594e4ca5801626ab2afe9
+      internalID: -2111787426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earthbound-bg-153-0_62
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 3360
+        width: 256
+        height: 224
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92cf0d5667a294c40a511f82a21670d5
+      internalID: 452778961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earthbound-bg-153-0_63
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3136
+        width: 256
+        height: 224
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fd9576b9fa81a843834d2730d896cdf
+      internalID: 2002599387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earthbound-bg-153-0_64
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 3136
+        width: 256
+        height: 224
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2aa2d25b846548e41a2bd70966c47b18
+      internalID: -1416805751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earthbound-bg-153-0_65
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 3136
+        width: 256
+        height: 224
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc419a8f2b5fec848844ffb2d2432101
+      internalID: -1702629626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earthbound-bg-153-0_66
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 3136
+        width: 256
+        height: 224
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b97acb97d6cba5498a010e535c88706
+      internalID: 136077736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earthbound-bg-153-0_67
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 3136
+        width: 256
+        height: 224
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 834399ccaa412f64e8211abc45df36d1
+      internalID: -1550725088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earthbound-bg-153-0_68
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 3136
+        width: 256
+        height: 224
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c6c69828c1aaf9408d859659e5cfe26
+      internalID: 881917860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earthbound-bg-153-0_69
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 3136
+        width: 256
+        height: 224
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 639ad808d190215448b037795205802f
+      internalID: -923323966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earthbound-bg-153-0_70
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2912
+        width: 256
+        height: 224
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f9c10563df411a4c91c7cd3236de26d
+      internalID: -1489647517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earthbound-bg-153-0_71
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 2912
+        width: 256
+        height: 224
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0f2e80e9e5dc1d45b83187be0326455
+      internalID: 1550612351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earthbound-bg-153-0_72
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 2912
+        width: 256
+        height: 224
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81986d7b36f3d5b4bb28c3c46ee570e5
+      internalID: -251222862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earthbound-bg-153-0_73
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 2912
+        width: 256
+        height: 224
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0aaebbcc4ff5f4847af65cb84909deed
+      internalID: -306456813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earthbound-bg-153-0_74
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 2912
+        width: 256
+        height: 224
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3d5d5eea8c392e46a391a2ba56cb507
+      internalID: -1487938286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earthbound-bg-153-0_75
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 2912
+        width: 256
+        height: 224
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2edaf37ce38c9c7478d8804c1ea981f6
+      internalID: 352362294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earthbound-bg-153-0_76
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 2912
+        width: 256
+        height: 224
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7a01e2b7b80973478ba5c1b03f31455
+      internalID: -1459428377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earthbound-bg-153-0_77
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2688
+        width: 256
+        height: 224
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de844263501162e41a38c0ad3c4cd2a7
+      internalID: -648692262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earthbound-bg-153-0_78
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 2688
+        width: 256
+        height: 224
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12a5897166a4e0c45957aa7e79c374df
+      internalID: 1656197253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earthbound-bg-153-0_79
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 2688
+        width: 256
+        height: 224
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f753a2d45b50cf248b79e72186485c28
+      internalID: -401676586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earthbound-bg-153-0_80
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 2688
+        width: 256
+        height: 224
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f399f105ecc31f42b2d4ee5a45b4046
+      internalID: 1241230720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earthbound-bg-153-0_81
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 2688
+        width: 256
+        height: 224
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19a7500312fbb964d9bfdbd7415e1bab
+      internalID: -1509112695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earthbound-bg-153-0_82
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 2688
+        width: 256
+        height: 224
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c47dfeda8b89c74f8b449d80dedd7c4
+      internalID: -1897410084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earthbound-bg-153-0_83
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 2688
+        width: 256
+        height: 224
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80c415d07d5cf6f499f483a1d3b485ac
+      internalID: 1207625375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earthbound-bg-153-0_84
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2464
+        width: 256
+        height: 224
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b70b3ba240b47824c8d3fe6c9f798f0b
+      internalID: -944426322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earthbound-bg-153-0_85
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 2464
+        width: 256
+        height: 224
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b532a482daa75f14283ee55df81f91d5
+      internalID: 855258727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earthbound-bg-153-0_86
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 2464
+        width: 256
+        height: 224
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f027978433404c44a3b95f882d7cdfa
+      internalID: 66334194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earthbound-bg-153-0_87
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 2464
+        width: 256
+        height: 224
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a838a838e0cd3234ebf7e5fee8ffebae
+      internalID: 1454410548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earthbound-bg-153-0_88
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 2464
+        width: 256
+        height: 224
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0a22948722f8fd4bb37d9a61e3e5309
+      internalID: -432706609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earthbound-bg-153-0_89
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 2464
+        width: 256
+        height: 224
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63b97483a401664469632862a282af68
+      internalID: -606324384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earthbound-bg-153-0_90
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 2464
+        width: 256
+        height: 224
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb5eea1ccde48444f8bcc4d64bf1d81a
+      internalID: -1859187320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earthbound-bg-153-0_91
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2240
+        width: 256
+        height: 224
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74f10b1fa9f52b44594e6aea79b718b5
+      internalID: -1232226769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earthbound-bg-153-0_92
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 2240
+        width: 256
+        height: 224
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfe3aff79b0c6ba49bf2e0ac7b1aeb6c
+      internalID: 1196242738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earthbound-bg-153-0_93
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 2240
+        width: 256
+        height: 224
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1026ecf5d6a11f1439c9c8277f3fb786
+      internalID: 717475616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earthbound-bg-153-0_94
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 2240
+        width: 256
+        height: 224
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6a5888c93f259f48a358a973d7b5354
+      internalID: -309995935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earthbound-bg-153-0_95
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 2240
+        width: 256
+        height: 224
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4ec6907afbf61541a469c4f01698d42
+      internalID: -490426290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earthbound-bg-153-0_96
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 2240
+        width: 256
+        height: 224
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3fc959c3953201418a1bc3ad15ea2be
+      internalID: 1842850500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earthbound-bg-153-0_97
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 2240
+        width: 256
+        height: 224
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c18551d6a9f89943855e23e3e6df65a
+      internalID: 1486346119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earthbound-bg-153-0_98
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2016
+        width: 256
+        height: 224
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06b6c3bc0c5e18f48b55d4f173b5b1a4
+      internalID: 2143091727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earthbound-bg-153-0_99
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 2016
+        width: 256
+        height: 224
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7bd2b9d0f4c7e443b2bc86a06ececa0
+      internalID: -133029933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earthbound-bg-153-0_100
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 2016
+        width: 256
+        height: 224
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c23e43689d8a404caad3a83ee752526
+      internalID: -61825221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earthbound-bg-153-0_101
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 2016
+        width: 256
+        height: 224
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4934a6d431b8c034aadac3dfabb77cbd
+      internalID: -233493577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earthbound-bg-153-0_102
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 2016
+        width: 256
+        height: 224
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edc200af191c18d46aa99228315d1a55
+      internalID: -58972934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earthbound-bg-153-0_103
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 2016
+        width: 256
+        height: 224
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ad0b93778b80ba4aa6ee422a51040c9
+      internalID: 2035857562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earthbound-bg-153-0_104
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 2016
+        width: 256
+        height: 224
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac62955a51b66e54d9d8a473ba4b186d
+      internalID: 611577173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earthbound-bg-153-0_105
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1792
+        width: 256
+        height: 224
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dc744edccf680144b968330dc142274
+      internalID: -210760232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earthbound-bg-153-0_106
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1792
+        width: 256
+        height: 224
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce5d7e684da8c4240b9bc8c53078d02d
+      internalID: 890878811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earthbound-bg-153-0_107
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1792
+        width: 256
+        height: 224
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fac4e6f5716a0a942b8a86bab8d66d4e
+      internalID: -1944730411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earthbound-bg-153-0_108
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1792
+        width: 256
+        height: 224
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 607a456b6dbd10f41b24ad659c67efee
+      internalID: -1360089284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earthbound-bg-153-0_109
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 1792
+        width: 256
+        height: 224
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 047d0ea8ddf37bb47962f29ae036ba15
+      internalID: -1886491624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earthbound-bg-153-0_110
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 1792
+        width: 256
+        height: 224
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe2a99832cbf2ab4490a0a4a79f6c64e
+      internalID: 1961279666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earthbound-bg-153-0_111
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 1792
+        width: 256
+        height: 224
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb6805690e16cb74fbcf89317409785a
+      internalID: 490228987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earthbound-bg-153-0_112
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1568
+        width: 256
+        height: 224
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccdc341ac6d94644d810369f9b392a25
+      internalID: 983620832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earthbound-bg-153-0_113
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1568
+        width: 256
+        height: 224
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41afccce1e67be841aabf482a58fdc98
+      internalID: 1548788442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earthbound-bg-153-0_114
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1568
+        width: 256
+        height: 224
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d63d851621dc5343b0ce998aba37ff2
+      internalID: -1827233205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earthbound-bg-153-0_115
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1568
+        width: 256
+        height: 224
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3def0bb871e06ad428506b50c2e24349
+      internalID: -504159338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earthbound-bg-153-0_116
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 1568
+        width: 256
+        height: 224
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e96a8e99be4bba42b888631d1c2fa51
+      internalID: 1410081100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earthbound-bg-153-0_117
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 1568
+        width: 256
+        height: 224
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c77d50a9517fe9a4b95708e7d1cfc53c
+      internalID: -1587175397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earthbound-bg-153-0_118
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 1568
+        width: 256
+        height: 224
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ea17d5a6a73e9941ad5782713d2d7ce
+      internalID: -1928877486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earthbound-bg-153-0_119
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1344
+        width: 256
+        height: 224
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68236abf8c340f04390a6370dbf5f179
+      internalID: 454019588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earthbound-bg-153-0_120
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1344
+        width: 256
+        height: 224
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e6c3ff07dfd25a438e272228349780d
+      internalID: -1281664309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earthbound-bg-153-0_121
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1344
+        width: 256
+        height: 224
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b03db7f7c4d95da479731a00ba48633d
+      internalID: -397872101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earthbound-bg-153-0_122
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1344
+        width: 256
+        height: 224
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86c69df014a535142a73b9f77fa712c8
+      internalID: -443358436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earthbound-bg-153-0_123
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 1344
+        width: 256
+        height: 224
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2114332dfec6b9458cc5a1c8008f190
+      internalID: 1765089131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earthbound-bg-153-0_124
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 1344
+        width: 256
+        height: 224
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50ba29f632b12f543a40675083e653ce
+      internalID: 985987517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earthbound-bg-153-0_125
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 1344
+        width: 256
+        height: 224
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb059e79038aead4cb76872b9a47489a
+      internalID: 347987219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earthbound-bg-153-0_126
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1120
+        width: 256
+        height: 224
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc9b58fe308d0284bb6f85be1074e2c3
+      internalID: 518575162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earthbound-bg-153-0_127
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1120
+        width: 256
+        height: 224
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c64333948b697d241895f669ec82a306
+      internalID: 1896749759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earthbound-bg-153-0_128
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1120
+        width: 256
+        height: 224
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf1f29da42ee5d047aa2d2393f41fcc6
+      internalID: -22566421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earthbound-bg-153-0_129
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1120
+        width: 256
+        height: 224
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c33f6bfaa6052143b383c357861bcb3
+      internalID: 872250812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earthbound-bg-153-0_130
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 1120
+        width: 256
+        height: 224
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fda9606ff24475f4e8255c8f9beec15e
+      internalID: -1732490269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earthbound-bg-153-0_131
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 1120
+        width: 256
+        height: 224
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94ab0eaeb9ef5754791ac6b5805c4a9d
+      internalID: 1258199749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earthbound-bg-153-0_132
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 1120
+        width: 256
+        height: 224
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3780abe0b1462b0419e8208eb5ac3d9e
+      internalID: 1535738418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earthbound-bg-153-0_133
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 896
+        width: 256
+        height: 224
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 592cd6ab33225564ba23d03644e6db94
+      internalID: -1538432743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earthbound-bg-153-0_134
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 896
+        width: 256
+        height: 224
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 092bcbc114a3b90419e0d3e1b07df85c
+      internalID: 173824087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earthbound-bg-153-0_135
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 896
+        width: 256
+        height: 224
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f69cbfb57d16b6a469fa1be86aab8be9
+      internalID: 147813100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earthbound-bg-153-0_136
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 896
+        width: 256
+        height: 224
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ddeb41f1172e8d47a73ad2d5f67e3d4
+      internalID: -1224837966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earthbound-bg-153-0_137
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 896
+        width: 256
+        height: 224
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66da76a536e773c49b73a275b1acc591
+      internalID: 1803492235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earthbound-bg-153-0_138
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 896
+        width: 256
+        height: 224
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ef16aea28c552e4b8e042a39f8ead29
+      internalID: -1593598926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earthbound-bg-153-0_139
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 896
+        width: 256
+        height: 224
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb0ad42933d5a054f91036b7e6463d60
+      internalID: 1245455101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earthbound-bg-153-0_140
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 672
+        width: 256
+        height: 224
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e10a7398734df514bad7bee5f756c2fe
+      internalID: 787674529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earthbound-bg-153-0_141
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 672
+        width: 256
+        height: 224
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42f9bdb4cbf3a6b46b3f9e4e02eac271
+      internalID: -288794426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earthbound-bg-153-0_142
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 672
+        width: 256
+        height: 224
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69d3751b1cae7dc4a8a9ecb0fee237ad
+      internalID: -1255102870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earthbound-bg-153-0_143
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 672
+        width: 256
+        height: 224
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ab1f910a1be0d540b46d3ce62d5797b
+      internalID: 218972569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earthbound-bg-153-0_144
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 672
+        width: 256
+        height: 224
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 912870077d4081c43a721f8f7fa195f9
+      internalID: 2113823682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earthbound-bg-153-0_145
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 672
+        width: 256
+        height: 224
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 226017dd76976e746aef6302f375f8c4
+      internalID: -411482068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earthbound-bg-153-0_146
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 672
+        width: 256
+        height: 224
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e5f2a70b2de5944b9333ebca01bbcb0
+      internalID: -1622153147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earthbound-bg-153-0_147
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 448
+        width: 256
+        height: 224
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 126009a8efd3b8c42aa86b4a128efc13
+      internalID: 1483539504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earthbound-bg-153-0_148
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 448
+        width: 256
+        height: 224
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f683d31e284b0af40b4ff588044230a9
+      internalID: 1160020409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earthbound-bg-153-0_149
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 448
+        width: 256
+        height: 224
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 334b305e0e0abff46a14b87f0f1d1bb5
+      internalID: 938198713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earthbound-bg-153-0_150
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 448
+        width: 256
+        height: 224
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5862ebbdf0c440848861117457082977
+      internalID: -129373933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earthbound-bg-153-0_151
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 448
+        width: 256
+        height: 224
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d8eaaa8ff90718439a9a6a5cf7d567e
+      internalID: 889090051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earthbound-bg-153-0_152
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 448
+        width: 256
+        height: 224
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44be67fc704cc854bac88b0528e9ee0e
+      internalID: 171142734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earthbound-bg-153-0_153
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 448
+        width: 256
+        height: 224
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 443567cfa157c9648b600f09220bed6a
+      internalID: 1516212340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earthbound-bg-153-0_154
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 224
+        width: 256
+        height: 224
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 314bc32364211a14da038145ec55b4b6
+      internalID: -121744418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earthbound-bg-153-0_155
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 224
+        width: 256
+        height: 224
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 566cc5cd9cb88f7428359e7e0c895ff7
+      internalID: 1845111426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earthbound-bg-153-0_156
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 224
+        width: 256
+        height: 224
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8f52de1acd0e41419ea9ac4192ef1f8
+      internalID: 958435444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earthbound-bg-153-0_157
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 224
+        width: 256
+        height: 224
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7804a3149c16e5643afda66100c265f4
+      internalID: 1938984117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earthbound-bg-153-0_158
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 224
+        width: 256
+        height: 224
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bc3b675d86e2904bbb4b2bedcec9499
+      internalID: -1495619813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earthbound-bg-153-0_159
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 224
+        width: 256
+        height: 224
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59de7068fd7003b4f9c1730b4180253e
+      internalID: 1417826113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earthbound-bg-153-0_160
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 224
+        width: 256
+        height: 224
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e739e70635e3e0644a446a08fa7e519d
+      internalID: -1548245314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earthbound-bg-153-0_161
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 256
+        height: 224
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2afeb9b572833324f96ad44e115bccf2
+      internalID: -1410851009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earthbound-bg-153-0_162
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 256
+        height: 224
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2138b24d2bcfa684bad7d81690291634
+      internalID: 1439853630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earthbound-bg-153-0_163
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 0
+        width: 256
+        height: 224
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 704b574b1d350864fb4473d8981e0e63
+      internalID: 628226832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earthbound-bg-153-0_164
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 0
+        width: 256
+        height: 224
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccd19505a91b80f478bb486d624dad28
+      internalID: 2003653715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earthbound-bg-153-0_165
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 0
+        width: 256
+        height: 224
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c83a84c5dd94f6f47bf7057130bc26ab
+      internalID: -1942340175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earthbound-bg-153-0_166
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 0
+        width: 256
+        height: 224
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79002f81596c5a9438de9b17a6b122db
+      internalID: -1504123125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earthbound-bg-153-0_167
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 0
+        width: 256
+        height: 224
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a62e0e431473dab4e899329f32fe5048
+      internalID: -33059178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 99340c1183ede004da93842a9b45550d
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":256.0,"y":224.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":1,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      earthbound-bg-153-0_0: -6705822450865901291
+      earthbound-bg-153-0_1: -1731557171
+      earthbound-bg-153-0_10: 670931408
+      earthbound-bg-153-0_100: -61825221
+      earthbound-bg-153-0_101: -233493577
+      earthbound-bg-153-0_102: -58972934
+      earthbound-bg-153-0_103: 2035857562
+      earthbound-bg-153-0_104: 611577173
+      earthbound-bg-153-0_105: -210760232
+      earthbound-bg-153-0_106: 890878811
+      earthbound-bg-153-0_107: -1944730411
+      earthbound-bg-153-0_108: -1360089284
+      earthbound-bg-153-0_109: -1886491624
+      earthbound-bg-153-0_11: -1089520270
+      earthbound-bg-153-0_110: 1961279666
+      earthbound-bg-153-0_111: 490228987
+      earthbound-bg-153-0_112: 983620832
+      earthbound-bg-153-0_113: 1548788442
+      earthbound-bg-153-0_114: -1827233205
+      earthbound-bg-153-0_115: -504159338
+      earthbound-bg-153-0_116: 1410081100
+      earthbound-bg-153-0_117: -1587175397
+      earthbound-bg-153-0_118: -1928877486
+      earthbound-bg-153-0_119: 454019588
+      earthbound-bg-153-0_12: -1933827473
+      earthbound-bg-153-0_120: -1281664309
+      earthbound-bg-153-0_121: -397872101
+      earthbound-bg-153-0_122: -443358436
+      earthbound-bg-153-0_123: 1765089131
+      earthbound-bg-153-0_124: 985987517
+      earthbound-bg-153-0_125: 347987219
+      earthbound-bg-153-0_126: 518575162
+      earthbound-bg-153-0_127: 1896749759
+      earthbound-bg-153-0_128: -22566421
+      earthbound-bg-153-0_129: 872250812
+      earthbound-bg-153-0_13: -2029712815
+      earthbound-bg-153-0_130: -1732490269
+      earthbound-bg-153-0_131: 1258199749
+      earthbound-bg-153-0_132: 1535738418
+      earthbound-bg-153-0_133: -1538432743
+      earthbound-bg-153-0_134: 173824087
+      earthbound-bg-153-0_135: 147813100
+      earthbound-bg-153-0_136: -1224837966
+      earthbound-bg-153-0_137: 1803492235
+      earthbound-bg-153-0_138: -1593598926
+      earthbound-bg-153-0_139: 1245455101
+      earthbound-bg-153-0_14: 963252753
+      earthbound-bg-153-0_140: 787674529
+      earthbound-bg-153-0_141: -288794426
+      earthbound-bg-153-0_142: -1255102870
+      earthbound-bg-153-0_143: 218972569
+      earthbound-bg-153-0_144: 2113823682
+      earthbound-bg-153-0_145: -411482068
+      earthbound-bg-153-0_146: -1622153147
+      earthbound-bg-153-0_147: 1483539504
+      earthbound-bg-153-0_148: 1160020409
+      earthbound-bg-153-0_149: 938198713
+      earthbound-bg-153-0_15: -912546950
+      earthbound-bg-153-0_150: -129373933
+      earthbound-bg-153-0_151: 889090051
+      earthbound-bg-153-0_152: 171142734
+      earthbound-bg-153-0_153: 1516212340
+      earthbound-bg-153-0_154: -121744418
+      earthbound-bg-153-0_155: 1845111426
+      earthbound-bg-153-0_156: 958435444
+      earthbound-bg-153-0_157: 1938984117
+      earthbound-bg-153-0_158: -1495619813
+      earthbound-bg-153-0_159: 1417826113
+      earthbound-bg-153-0_16: 146637979
+      earthbound-bg-153-0_160: -1548245314
+      earthbound-bg-153-0_161: -1410851009
+      earthbound-bg-153-0_162: 1439853630
+      earthbound-bg-153-0_163: 628226832
+      earthbound-bg-153-0_164: 2003653715
+      earthbound-bg-153-0_165: -1942340175
+      earthbound-bg-153-0_166: -1504123125
+      earthbound-bg-153-0_167: -33059178
+      earthbound-bg-153-0_17: -165024060
+      earthbound-bg-153-0_18: 607006943
+      earthbound-bg-153-0_19: -1272229606
+      earthbound-bg-153-0_2: 103608419
+      earthbound-bg-153-0_20: 912136789
+      earthbound-bg-153-0_21: 473907771
+      earthbound-bg-153-0_22: 1669273761
+      earthbound-bg-153-0_23: 634938619
+      earthbound-bg-153-0_24: -1418123923
+      earthbound-bg-153-0_25: 1236489235
+      earthbound-bg-153-0_26: 547679227
+      earthbound-bg-153-0_27: -829133704
+      earthbound-bg-153-0_28: 1897044185
+      earthbound-bg-153-0_29: 614301862
+      earthbound-bg-153-0_3: -649628802
+      earthbound-bg-153-0_30: -1027517150
+      earthbound-bg-153-0_31: 1783361890
+      earthbound-bg-153-0_32: -857455972
+      earthbound-bg-153-0_33: 179202067
+      earthbound-bg-153-0_34: 858501587
+      earthbound-bg-153-0_35: 1833843696
+      earthbound-bg-153-0_36: 335115331
+      earthbound-bg-153-0_37: 528716900
+      earthbound-bg-153-0_38: 67217125
+      earthbound-bg-153-0_39: -986343974
+      earthbound-bg-153-0_4: -1087334354
+      earthbound-bg-153-0_40: 1137676815
+      earthbound-bg-153-0_41: -215630514
+      earthbound-bg-153-0_42: -1815745323
+      earthbound-bg-153-0_43: 1843180875
+      earthbound-bg-153-0_44: 667160131
+      earthbound-bg-153-0_45: -1725618859
+      earthbound-bg-153-0_46: 2019103257
+      earthbound-bg-153-0_47: 31007295
+      earthbound-bg-153-0_48: 1587524124
+      earthbound-bg-153-0_49: -201665070
+      earthbound-bg-153-0_5: 1933530432
+      earthbound-bg-153-0_50: 237819676
+      earthbound-bg-153-0_51: 1489590017
+      earthbound-bg-153-0_52: -2071335753
+      earthbound-bg-153-0_53: -1251938245
+      earthbound-bg-153-0_54: 668923113
+      earthbound-bg-153-0_55: 1119333612
+      earthbound-bg-153-0_56: -1389314915
+      earthbound-bg-153-0_57: 126910991
+      earthbound-bg-153-0_58: 845818377
+      earthbound-bg-153-0_59: 1740705390
+      earthbound-bg-153-0_6: 1372074669
+      earthbound-bg-153-0_60: 471623455
+      earthbound-bg-153-0_61: -2111787426
+      earthbound-bg-153-0_62: 452778961
+      earthbound-bg-153-0_63: 2002599387
+      earthbound-bg-153-0_64: -1416805751
+      earthbound-bg-153-0_65: -1702629626
+      earthbound-bg-153-0_66: 136077736
+      earthbound-bg-153-0_67: -1550725088
+      earthbound-bg-153-0_68: 881917860
+      earthbound-bg-153-0_69: -923323966
+      earthbound-bg-153-0_7: -1603547619
+      earthbound-bg-153-0_70: -1489647517
+      earthbound-bg-153-0_71: 1550612351
+      earthbound-bg-153-0_72: -251222862
+      earthbound-bg-153-0_73: -306456813
+      earthbound-bg-153-0_74: -1487938286
+      earthbound-bg-153-0_75: 352362294
+      earthbound-bg-153-0_76: -1459428377
+      earthbound-bg-153-0_77: -648692262
+      earthbound-bg-153-0_78: 1656197253
+      earthbound-bg-153-0_79: -401676586
+      earthbound-bg-153-0_8: 1323744527
+      earthbound-bg-153-0_80: 1241230720
+      earthbound-bg-153-0_81: -1509112695
+      earthbound-bg-153-0_82: -1897410084
+      earthbound-bg-153-0_83: 1207625375
+      earthbound-bg-153-0_84: -944426322
+      earthbound-bg-153-0_85: 855258727
+      earthbound-bg-153-0_86: 66334194
+      earthbound-bg-153-0_87: 1454410548
+      earthbound-bg-153-0_88: -432706609
+      earthbound-bg-153-0_89: -606324384
+      earthbound-bg-153-0_9: -276696833
+      earthbound-bg-153-0_90: -1859187320
+      earthbound-bg-153-0_91: -1232226769
+      earthbound-bg-153-0_92: 1196242738
+      earthbound-bg-153-0_93: 717475616
+      earthbound-bg-153-0_94: -309995935
+      earthbound-bg-153-0_95: -490426290
+      earthbound-bg-153-0_96: 1842850500
+      earthbound-bg-153-0_97: 1486346119
+      earthbound-bg-153-0_98: 2143091727
+      earthbound-bg-153-0_99: -133029933
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
