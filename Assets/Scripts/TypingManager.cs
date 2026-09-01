@@ -6,13 +6,25 @@ using UnityEngine;
 
 public class TypingManager : MonoBehaviour
 {
+    #region TYPING
     string[] _words;
     int _currWordIdx;
     public string PlayerTypedWord;
     bool _isMatchSuccessful;
+    int _currCharacterLimit;
+    int _currScore;
+
+    public TypingManager Instance;
 
     [SerializeField] TMP_InputField _inputField;
     [SerializeField] TMP_Text _currentWordText;
+    #endregion
+
+    #region FONTS
+    List<FontStyle> _fontStyles;
+    #endregion
+
+
 
     private void OnEnable()
     {
@@ -29,11 +41,16 @@ public class TypingManager : MonoBehaviour
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
-        _words = new string[] { "Red", "Apple", "Little", "Favorite" };
+        _words = new string[] { "Cat", "Dog", "Sun", "Red", "Tree", "Blue", "Moon", "Star", "Apple", "Chair", "Stone", "River", "Planet", "Silver", "Castle", "Forest" };
         _currWordIdx = 0;
         PlayerTypedWord = string.Empty;
         _isMatchSuccessful = false;
         SetCurrentWordText(_words[_currWordIdx]);
+
+        _currCharacterLimit = 3;
+        _inputField.characterLimit = _currCharacterLimit;
+
+        _currScore = 0;
     }
 
     // Update is called once per frame
@@ -49,8 +66,20 @@ public class TypingManager : MonoBehaviour
                 SetCurrentWordText(_words[++_currWordIdx]);
             }
 
+            TimeManager.Instance.AddTwoSeconds();
+            _currScore++;
+            CheckScore();
+
             _inputField.text = "";
             _isMatchSuccessful = false;
+        }
+    }
+
+    void CheckScore()
+    {
+        if (_currScore % 4 == 0)
+        {
+            _inputField.characterLimit += 1;
         }
     }
 
