@@ -14,8 +14,6 @@ public class TypingManager : MonoBehaviour
     int _currCharacterLimit;
     int _currScore;
 
-    public TypingManager Instance;
-
     [SerializeField] TMP_InputField _inputField;
     [SerializeField] TMP_Text _currentWordText;
     #endregion
@@ -51,6 +49,8 @@ public class TypingManager : MonoBehaviour
         _inputField.characterLimit = _currCharacterLimit;
 
         _currScore = 0;
+
+        _inputField.ActivateInputField();
     }
 
     // Update is called once per frame
@@ -90,27 +90,27 @@ public class TypingManager : MonoBehaviour
 
     void SetCurrentWordText(string newWord) => _currentWordText.text = newWord;
 
+    IEnumerator PlayerStop()
+    {
+        _inputField.interactable = false;
+        yield return new WaitForSeconds(0.5f);
+        _inputField.interactable = true;
+        _inputField.ActivateInputField();
+    }
+
     void PlayerInputCheck(string inputText)
     {
-        //Debug.Log(_words[_currWordIdx].Substring(0, inputText.Length));
-        // inputText.Length > 0 && 
 
-        if (inputText == _words[_currWordIdx].Substring(0, inputText.Length))
+        if (inputText != _words[_currWordIdx].Substring(0, inputText.Length))
         {
-            Debug.Log("Yes");
-        }
-        else
-        {
-            Debug.Log("No");
+            StartCoroutine(PlayerStop());
         }
 
-        //Debug.Log(inputText);
     }
 
     void FinalLetterCheck(string inputText)
     {
         if (inputText.Length != _words[_currWordIdx].Length) return;
         if (inputText == _words[_currWordIdx]) _isMatchSuccessful = true;
-
     }
 }
