@@ -1,27 +1,24 @@
 using System;
 using UnityEngine;
+using Consystently.Essentials;
 
-namespace Consystently.Essentials
+public class MainMenuGameState : GameState
 {
-    public class MainMenuGameState : GameState
-    {
-        public MainMenuGameState(GameManager gameManager) : base(gameManager) { }
+  public MainMenuGameState(GameManager gameManager) : base(gameManager) { }
 
-        //TODO:
-        //implement main menu state transitions 
-        public override void Enter()
-        {
-            Debug.Log("Main menu transitions are not ready, sorry!");
-        }
+  public override void Enter()
+  {
+    PlayerInputController.Instance.Menu.Enable();
+  }
 
-        public override void Update()
-        {
-        }
+  public override void Update()
+  {
+    
+  }
 
-        public override void Exit()
-        {
-            
-        }
-        
-    }
+  public override void Exit()
+  {
+    PlayerInputController.Instance.Menu.Disable();
+  }
+    
 }

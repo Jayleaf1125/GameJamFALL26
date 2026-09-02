@@ -1,14 +1,15 @@
 using UnityEngine;
-using Consystently.Essentials;
 using TMPro;
 using System.Collections.Generic;
 
-public class WordManager : Manager<WordManager>
+[RequireComponent(typeof(TextMeshProUGUI))]
+[DisallowMultipleComponent]
+public class ActiveWordVisualizer : MonoBehaviour
 {
   #region TYPING
-  [SerializeField] TextMeshProUGUI _currentWordText;
+  private TextMeshProUGUI _textMesh;
 
-  public string CurrentWord { get; private set; } = string.Empty;
+  public string ActiveWord { get; private set; } = string.Empty;
   public string PlayerWordInput { get; private set; } = string.Empty;
   int _inputIndex = 0;
   bool _charMatch = false;
@@ -26,15 +27,21 @@ public class WordManager : Manager<WordManager>
   public Dictionary<int, string[]> WordBank => Words.Bank;
   #endregion
 
-  void Start()
+  public void Awake()
   {
-    
+    _textMesh ??= GetComponent<TextMeshProUGUI>();
+    Reset();
   }
 
-  // Update is called once per frame
-  void Update()
+  public void Reset()
   {
-      
+    ActiveWord = string.Empty;
+    _textMesh.text = ActiveWord;
+    PlayerWordInput = string.Empty;
+    _inputIndex = 0;
+    _charMatch = false;
+    _playerScore = 0;
+    _maxLength = 3;
   }
 
   public void SetMaxLength(int newLength) => _maxLength = Mathf.Clamp(newLength, 3, 10);
@@ -45,19 +52,18 @@ public class WordManager : Manager<WordManager>
     string newWord = string.Empty;
 
     // re-roll for a word if the new word is the same as the current word.
-    while (newWord == CurrentWord || newWord == string.Empty)
+    while (newWord == ActiveWord || newWord == string.Empty)
     {
       random = Random.Range(0, WordBank[_maxLength].Length);
       newWord = WordBank[_maxLength][random];
     }
 
-    CurrentWord = newWord;
+    ActiveWord = newWord;
+    _textMesh.text = ActiveWord;
   }
 
   public void SetActiveFontStyle()
   {
     
   }
-
-
 }
