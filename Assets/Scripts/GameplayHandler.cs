@@ -8,10 +8,10 @@ public class GameplayHandler : MonoBehaviour
 {
 //<<<<<<< HEAD
 //=======
-//  [Header("Link Backgrounds Here")]
-//  public GameObject BG1;
-//  public GameObject BG2;
-//  public GameObject BG3;
+  [Header("Link Backgrounds Here")]
+  public GameObject BG1;
+  public GameObject BG2;
+  public GameObject BG3;
   
 //>>>>>>> parent of b64ffc7 (Functional Background Switching code in GameplayHandler script)
   [Header("HUD")]
@@ -55,6 +55,7 @@ public class GameplayHandler : MonoBehaviour
   public void NewRound()
   {
     CurrentRound++;
+    SwitchBackground();
     _round.text = $"Round {CurrentRound}";
 
     PlayerInputController.Instance.Gameplay.Enable();
@@ -71,21 +72,28 @@ public class GameplayHandler : MonoBehaviour
 //<<<<<<< HEAD
 //=======
 
-//  public void SwitchBackground()
-//  {
-//    if(CurrentRound == 1)
-//    {
-//      BG1.SetActive(false);
-//      BG2.SetActive(true);
-//      BG3.SetActive(false);
-//    }
+  public void SwitchBackground() 
+  {
+    if(CurrentRound == 1)
+    {
+      BG1.SetActive(true);
+      BG2.SetActive(false);
+      BG3.SetActive(false);
+    }
     
-//    if(CurrentRound == 2)
-//    {
-//      BG1.SetActive(false);
-//      BG2.SetActive(false);
-//      BG3.SetActive(true);
-//    }
-//  }
+    if(CurrentRound == 2)
+    {
+      BG1.SetActive(false);
+      BG2.SetActive(true);
+      BG3.SetActive(false);
+    } 
+    
+    if(CurrentRound == 3)
+    {
+      BG1.SetActive(false);
+      BG2.SetActive(false);
+      BG3.SetActive(true);
+    }
+  }
 //>>>>>>> parent of b64ffc7 (Functional Background Switching code in GameplayHandler script)
 }
