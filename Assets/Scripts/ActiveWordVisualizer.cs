@@ -2,6 +2,7 @@ using UnityEngine;
 using TMPro;
 using System.Collections.Generic;
 using Unity.VisualScripting;
+using FMODUnity;
 
 [RequireComponent(typeof(TextMeshProUGUI))]
 [DisallowMultipleComponent]
@@ -31,6 +32,16 @@ public class ActiveWordVisualizer : MonoBehaviour
   private const string GRN_COL_TAG = "<style=\"G\">";
   private const string YLW_COL_TAG = "<style=\"Y\">";
   private const string RED_COL_TAG = "<style=\"R\">";
+    #endregion
+
+  #region AUDIO
+
+    [SerializeField] EventReference TypeEvent;
+    public GameObject Player;
+
+    [SerializeField] EventReference WrongEvent;
+    [SerializeField] EventReference CorrectEvent;
+
   #endregion
 
   private GameplayHandler _gameplayHandler;
@@ -79,12 +90,15 @@ public class ActiveWordVisualizer : MonoBehaviour
       i++;
 
       if(PlayerWordInput == ActiveWord)
-      {
+    {
+        RuntimeManager.PlayOneShotAttached(CorrectEvent, Player);
+        TypeSound();
         _timerVisualizer.AddTime();
         SetActiveWord();
       }
       else
       {
+        TypeSound();
         match = true;
         UpdateWordStyling();
       }
@@ -92,6 +106,7 @@ public class ActiveWordVisualizer : MonoBehaviour
     else
     {
       // Incorrect
+      TypeSound();
       _timerVisualizer.SubtractTime();
       match = false;
       UpdateWordStyling();
@@ -129,6 +144,7 @@ public class ActiveWordVisualizer : MonoBehaviour
     _textMesh.text = styledInput + styledIndex + substring;
     if (match == false)
     {
+      RuntimeManager.PlayOneShotAttached(WrongEvent, Player);
       match = true;
       Invoke(nameof(UpdateWordStyling), 0.3f);
     }
@@ -138,4 +154,10 @@ public class ActiveWordVisualizer : MonoBehaviour
   {
     // in Words.cs there are strings for each of the font's names that you can use to pick one out from the list. bring those strings to this script if you must.
   }
+
+    void TypeSound()
+    {
+        RuntimeManager.PlayOneShotAttached(TypeEvent, Player);
+    }
+
 }

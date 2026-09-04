@@ -280,6 +280,28 @@ MonoBehaviour:
   - {fileID: 11400000, guid: 282e2385c413c40778c93de742e55288, type: 2}
   - {fileID: 11400000, guid: 43d74ad0b57054cbc815cc681c1b3fd9, type: 2}
   - {fileID: 11400000, guid: d3fd30164daf34442a191b21c60b35e2, type: 2}
+  TypeEvent:
+    Guid:
+      Data1: -225420728
+      Data2: 1138021206
+      Data3: -422090100
+      Data4: -1514435663
+    Path: event:/Type
+  Player: {fileID: 1052344134}
+  WrongEvent:
+    Guid:
+      Data1: 1545004264
+      Data2: 1271919362
+      Data3: 2143670684
+      Data4: 660187826
+    Path: event:/WRONG
+  CorrectEvent:
+    Guid:
+      Data1: -2019780777
+      Data2: 1109928783
+      Data3: 900816541
+      Data4: -1646092374
+    Path: event:/Correct!!!!!!!!
 --- !u!1 &283794068
 GameObject:
   m_ObjectHideFlags: 0
@@ -1105,8 +1127,8 @@ GameObject:
   m_Component:
   - component: {fileID: 1357475839}
   - component: {fileID: 1357475838}
-  - component: {fileID: 1357475837}
   - component: {fileID: 1357475840}
+  - component: {fileID: 1357475841}
   m_Layer: 0
   m_Name: Main Camera
   m_TagString: MainCamera
@@ -1114,14 +1136,6 @@ GameObject:
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
---- !u!81 &1357475837
-AudioListener:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1357475836}
-  m_Enabled: 1
 --- !u!20 &1357475838
 Camera:
   m_ObjectHideFlags: 0
@@ -1232,6 +1246,20 @@ MonoBehaviour:
     m_VarianceClampScale: 0.9
     m_ContrastAdaptiveSharpening: 0
   m_Version: 2
+--- !u!114 &1357475841
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1357475836}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 86c6556701af9e04380698b89f691b6e, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: FMODUnity::FMODUnity.StudioListener
+  nonRigidbodyVelocity: 0
+  attenuationObject: {fileID: 0}
 --- !u!1 &1361799095
 GameObject:
   m_ObjectHideFlags: 0
@@ -1321,6 +1349,69 @@ MonoBehaviour:
   m_OnValueChanged:
     m_PersistentCalls:
       m_Calls: []
+--- !u!1 &1598008934
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1598008936}
+  - component: {fileID: 1598008935}
+  m_Layer: 0
+  m_Name: Audio
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!114 &1598008935
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1598008934}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9a6610d2e704f1648819acc8d7460285, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: FMODUnity::FMODUnity.StudioEventEmitter
+  CollisionTag: 
+  EventReference:
+    Guid:
+      Data1: -1673130361
+      Data2: 1119038685
+      Data3: -1433890925
+      Data4: 372813670
+    Path: event:/Game Music
+  Event: 
+  EventPlayTrigger: 1
+  EventStopTrigger: 0
+  AllowFadeout: 1
+  TriggerOnce: 0
+  Preload: 0
+  NonRigidbodyVelocity: 0
+  Params: []
+  OverrideAttenuation: 0
+  OverrideMinDistance: 1
+  OverrideMaxDistance: 20
+--- !u!4 &1598008936
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1598008934}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1634226436
 GameObject:
   m_ObjectHideFlags: 0
@@ -1577,3 +1668,4 @@ SceneRoots:
   - {fileID: 1122372816}
   - {fileID: 943232744}
   - {fileID: 1052344136}
+  - {fileID: 1598008936}

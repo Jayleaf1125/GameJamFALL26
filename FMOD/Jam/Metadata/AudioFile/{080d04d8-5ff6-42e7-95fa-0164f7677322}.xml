@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="AudioFile" id="{080d04d8-5ff6-42e7-95fa-0164f7677322}">
+		<property name="assetPath">
+			<value>Computers, Keyboard   Mouse, Keyboard, Apple Magic, Typing, Short Phrases SND12144 S00 1.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>96</value>
+		</property>
+		<property name="channelCount">
+			<value>1</value>
+		</property>
+		<property name="length">
+			<value>0.91997916666666668</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{062c2bfa-8f28-4eb6-8862-f48003225e8d}</destination>
+		</relationship>
+	</object>
+</objects>

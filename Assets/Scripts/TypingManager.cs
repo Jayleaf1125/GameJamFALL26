@@ -58,6 +58,7 @@ public class TypingManager : MonoBehaviour
     {
         if (_isMatchSuccessful)
         {
+            Debug.Log("hi");
             StartCoroutine(LittlePause());
 
             int nextIdx = _currWordIdx + 1;

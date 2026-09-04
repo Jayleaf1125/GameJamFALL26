@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="AudioFile" id="{c94303f8-9ff1-4343-986b-3c25105261ab}">
+		<property name="assetPath">
+			<value>notpepsiman (1).mp3</value>
+		</property>
+		<property name="isStreaming">
+			<value>true</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>61.805714285714288</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{062c2bfa-8f28-4eb6-8862-f48003225e8d}</destination>
+		</relationship>
+	</object>
+</objects>
