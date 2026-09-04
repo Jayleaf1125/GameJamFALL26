@@ -5,9 +5,15 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/SampleScene.unity
     guid: 8c9cfa26abfee488c85f1582747f6a02
+  - enabled: 1
+    path: Assets/Scenes/Mikyle_MainMenu.unity
+    guid: 10974b3f2ca3db84b8b3bd7bc8745799
+  - enabled: 1
+    path: Assets/Scenes/Gameplay.unity
+    guid: de75abe1b3ff8ba41bfc94508910906f
   m_configObjects:
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: d6b216adaf4b44e4f90a98f1e399eaf8, type: 3}
   m_UseUCBPForAssetBundles: 0
