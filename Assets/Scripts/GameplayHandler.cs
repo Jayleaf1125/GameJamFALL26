@@ -6,11 +6,6 @@ using UnityEngine;
 [DisallowMultipleComponent]
 public class GameplayHandler : MonoBehaviour
 {
-  [Header("Link Backgrounds Here")] // Made by Emmanuel
-  public GameObject BG1;
-  public GameObject BG2;
-  public GameObject BG3;
-  
   [Header("HUD")]
   
   [Space(5)]
@@ -38,7 +33,7 @@ public class GameplayHandler : MonoBehaviour
   public void NewSession()
   {
     PlayerScore = 0;
-    CurrentRound = 2;
+    CurrentRound = 0;
     
     _score.text = $"Score: {PlayerScore}";
     _round.text = $"Round {CurrentRound}";
@@ -58,36 +53,11 @@ public class GameplayHandler : MonoBehaviour
 
     _activeWordVisualizer.NewRound(CurrentRound);
     _timerVisualizer.NewRound(CurrentRound);
-    SwitchBackground(); // Made by Emmanuel
   }
 
   public void AddToScore(int addition) 
   {
     PlayerScore += addition;
     _score.text = $"Score: {PlayerScore}";
-  }
-
-  public void SwitchBackground()  // Made by Emmanuel
-  {
-    if(CurrentRound == 1)
-    {
-      BG1.SetActive(true);
-      BG2.SetActive(false);
-      BG3.SetActive(false);
-    }
-    
-    if(CurrentRound == 2)
-    {
-      BG1.SetActive(false);
-      BG2.SetActive(true);
-      BG3.SetActive(false);
-    }
-    
-    if(CurrentRound == 3)
-    {
-      BG1.SetActive(false);
-      BG2.SetActive(false);
-      BG3.SetActive(true);
-    }
   }
 }
