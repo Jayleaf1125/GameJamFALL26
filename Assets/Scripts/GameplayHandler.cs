@@ -6,6 +6,14 @@ using UnityEngine;
 [DisallowMultipleComponent]
 public class GameplayHandler : MonoBehaviour
 {
+//<<<<<<< HEAD
+//=======
+//  [Header("Link Backgrounds Here")]
+//  public GameObject BG1;
+//  public GameObject BG2;
+//  public GameObject BG3;
+  
+//>>>>>>> parent of b64ffc7 (Functional Background Switching code in GameplayHandler script)
   [Header("HUD")]
   
   [Space(5)]
@@ -60,4 +68,24 @@ public class GameplayHandler : MonoBehaviour
     PlayerScore += addition;
     _score.text = $"Score: {PlayerScore}";
   }
+//<<<<<<< HEAD
+//=======
+
+//  public void SwitchBackground()
+//  {
+//    if(CurrentRound == 1)
+//    {
+//      BG1.SetActive(false);
+//      BG2.SetActive(true);
+//      BG3.SetActive(false);
+//    }
+    
+//    if(CurrentRound == 2)
+//    {
+//      BG1.SetActive(false);
+//      BG2.SetActive(false);
+//      BG3.SetActive(true);
+//    }
+//  }
+//>>>>>>> parent of b64ffc7 (Functional Background Switching code in GameplayHandler script)
 }
